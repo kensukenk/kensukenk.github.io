@@ -28,4 +28,4 @@ My research focuses on safety for human-robot interaction. In particular, I'm in
 
 [comment]: # ( Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.)
 
-[E-mail](mailto:kensuken@andrew.cmu.edu) / [Google Scholar](https://scholar.google.com/citations?user=PTNl3LwAAAAJ&hl=en) / [Github](https://github.com/kensukenk) / [Twitter](https://twitter.com/kensukenk) 
+[E-mail](mailto:kensuken@andrew.cmu.edu) / [Google Scholar](https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=AOV7GLOwIFeg26hGDUVT2YPyhkNQj58R-4EJXPq0m8p4u9eeApOzLAYhMxKt24sldXtZl55MGiowxbOfD5nIpGhy-6LH&user=KFDaLPgAAAAJ) / [Github](https://github.com/kensukenk) / [Twitter](https://twitter.com/kensukenk) 
