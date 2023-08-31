@@ -20,7 +20,7 @@ I graduated from Princeton University where I was advised by [Jaime Fernández F
 
 My research focuses on safety for human-robot interaction. In particular, I'm interested in how we can maintain rigourous guarantees drawn from control theory while reducing overconservativness by allowing robots to learn at runtime. I'm also interested in studying how humans adapt to robots and are influenced over long-term interaction.
 
-<b>I will be joining the Robotics Institute at Carnegie Mellon University in September 2023 where I will begin my Ph.D. with [Andrea Bajcsy](https://people.eecs.berkeley.edu/~abajcsy/). </b>
+<b>I have started my Ph.D. at the Carnegie Mellon University Robotics Institute where I am working with [Andrea Bajcsy](https://people.eecs.berkeley.edu/~abajcsy/) on safe human-robot interaction. </b>
 
 
 
