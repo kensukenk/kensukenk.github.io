@@ -16,7 +16,10 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a Ph.D. student at the Carnegie Mellon University Robotics Institute where I am advised by Prof. [Andrea Bajcsy](https://www.cs.cmu.edu/~abajcsy/). My research focuses on safety for human-robot interaction. In particular, I'm interested maintaining rigorous guarantees drawn from control theory while reducing overconservativness by allowing robots to learn at runtime. I am fortunate to be supported by the NSF Graduate Research Fellowship.
+I am a Ph.D. student at the Carnegie Mellon University Robotics Institute where I am advised by Prof. [Andrea Bajcsy](https://www.cs.cmu.edu/~abajcsy/). My research leverages the synergy between robust optimal control and generative models
+to develop theory and algorithms that allow robots to safely operate in unstructured and
+uncertain environments, especially around people. I ground my ideas in systems such as
+autonomous vehicles that use learned trajectory forecasters during planning or robotic manipulators that use world models to understand safety constraints beyond collision avoidance. I am fortunate to be supported by the NSF Graduate Research Fellowship.
 
 Previously, I graduated from Princeton University where I was advised by [Jaime Fernández Fisac](https://ece.princeton.edu/people/jaime-fernandez-fisac) and [Naomi Ehrich Leonard](https://mae.princeton.edu/people/faculty/leonard). I've also had the pleasure of collaborating with [Somil Bansal](https://smlbansal.github.io/). 
 
