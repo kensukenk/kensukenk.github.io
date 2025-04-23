@@ -58,8 +58,8 @@ ninja.data = [{
           section: "News",},{id: "news-i-gave-a-talk-to-the-saids-lab-at-usc-later-this-month-i-ll-be-giving-a-talk-to-the-herald-lab-at-tu-delft",
           title: 'I gave a talk to the SAIDS lab at USC! Later this month...',
           description: "",
-          section: "News",},{id: "news-new-paper-on-generalizing-hamilton-jacobi-reachability-for-constraints-beyond-collision-avoidance-by-leveraging-the-representations-learned-by-world-models-check-out-our-project-website-here-our-paper-on-generalizing-safety-analysis-for-constraints-beyond-collision-avoidance-was-just-accepted-to-rss-2025",
-          title: 'New paper on generalizing Hamilton-Jacobi reachability for constraints beyond collision-avoidance by leveraging the...',
+          section: "News",},{id: "news-our-paper-on-generalizing-safety-analysis-for-constraints-beyond-collision-avoidance-was-just-accepted-to-rss-2025",
+          title: 'Our paper on generalizing safety analysis for constraints beyond collision-avoidance was just accepted...',
           description: "",
           section: "News",},{
         id: 'social-email',
