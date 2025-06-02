@@ -61,6 +61,9 @@ ninja.data = [{
           section: "News",},{id: "news-our-paper-on-generalizing-safety-analysis-for-constraints-beyond-collision-avoidance-was-just-accepted-to-rss-2025",
           title: 'Our paper on generalizing safety analysis for constraints beyond collision-avoidance was just accepted...',
           description: "",
+          section: "News",},{id: "news-our-new-paper-strengthens-latent-safety-filters-by-allowing-them-to-account-for-out-of-distribution-failures-by-treating-regions-where-a-world-model-has-high-uncertainty-as-a-safety-violation-this-work-was-lead-by-junwon-seo-and-the-project-website-is-here",
+          title: 'Our new paper strengthens latent safety filters by allowing them to account for...',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
