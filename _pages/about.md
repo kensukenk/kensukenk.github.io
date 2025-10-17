@@ -26,10 +26,10 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a Ph.D. student at the Carnegie Mellon University Robotics Institute where I am advised by Prof. [Andrea Bajcsy](https://www.cs.cmu.edu/~abajcsy/). My research leverages the synergy between robust optimal control and generative models
+I am a Ph.D. student at the Carnegie Mellon University Robotics Institute where I am advised by Prof. [Andrea Bajcsy](https://www.cs.cmu.edu/~abajcsy/). My research leverages the synergy between optimal control and generative models
 to allow robots to safely operate in unstructured and
 uncertain environments. I develop theory and algorithms grounded in systems such as
-autonomous vehicles that use learned trajectory forecasters during planning or robotic manipulators that use world models to understand nuanced safety constraints. I am fortunate to be supported by the NSF Graduate Research Fellowship.
+autonomous vehicles that use learned trajectory forecasters during planning or robotic manipulators that use world models to understand nuanced safety constraints. I was named a 2025 [HRI Pioneer](https://hripioneers.org/archives/hri25/participants/) and I am fortunate to be supported by the NSF Graduate Research Fellowship.
 
 Previously, I graduated from Princeton University where I was advised by [Jaime Fernández Fisac](https://ece.princeton.edu/people/jaime-fernandez-fisac) and [Naomi Ehrich Leonard](https://mae.princeton.edu/people/faculty/leonard). I've also had the pleasure of collaborating with [Somil Bansal](https://smlbansal.github.io/). 
 
