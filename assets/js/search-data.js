@@ -70,6 +70,9 @@ ninja.data = [{
           section: "News",},{id: "news-excited-to-share-that-we-extended-the-paradigm-of-latent-safety-filtering-to-optimization-based-filters-in-the-style-of-control-barrier-functions-while-theory-tells-us-extending-hj-value-functions-to-act-as-cbfs-should-be-straightforward-we-identified-and-remedied-two-key-details-to-make-it-work-in-practice-details-in-the-project-website-here",
           title: 'Excited to share that we extended the paradigm of latent safety filtering to...',
           description: "",
+          section: "News",},{id: "news-how-to-train-your-latent-control-barrier-function-got-accepted-as-an-oral-presentation-at-l4dc-2026",
+          title: 'How to Train Your Latent Control Barrier Function got accepted as an oral...',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
