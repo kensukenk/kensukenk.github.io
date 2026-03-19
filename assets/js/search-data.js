@@ -73,6 +73,9 @@ ninja.data = [{
           section: "News",},{id: "news-how-to-train-your-latent-control-barrier-function-got-accepted-as-an-oral-presentation-at-l4dc-2026",
           title: 'How to Train Your Latent Control Barrier Function got accepted as an oral...',
           description: "",
+          section: "News",},{id: "news-i-gave-a-talk-to-the-robin-lab-at-ut-austin-i-talked-about-fundamentals-of-safety-critical-control-hamilton-jacobi-reachability-and-control-barrier-functions-and-two-works-that-extended-these-concepts-to-latent-safety-filters",
+          title: 'I gave a talk to the RobIn lab at UT Austin! I talked...',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
