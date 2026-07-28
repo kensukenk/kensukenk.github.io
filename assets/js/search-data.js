@@ -76,6 +76,12 @@ ninja.data = [{
           section: "News",},{id: "news-i-gave-a-talk-to-the-robin-lab-at-ut-austin-i-talked-about-fundamentals-of-safety-critical-control-hamilton-jacobi-reachability-and-control-barrier-functions-and-two-works-that-extended-these-concepts-to-latent-safety-filters",
           title: 'I gave a talk to the RobIn lab at UT Austin! I talked...',
           description: "",
+          section: "News",},{id: "news-gave-a-talk-at-the-icon-lab-at-uc-berkeley",
+          title: 'Gave a talk at the ICON lab at UC Berkeley!',
+          description: "",
+          section: "News",},{id: "news-gave-a-talk-at-the-sisl-lab-at-stanford",
+          title: 'Gave a talk at the SISL lab at Stanford!',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
